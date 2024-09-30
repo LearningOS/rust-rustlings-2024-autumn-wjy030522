@@ -4,7 +4,7 @@
 
 
 pub fn bigger(a: i32, b: i32) -> i32 {
-    // Complete this function to return the bigger number!
+    // Complete this function to return the bigger number!1
     // Do not use:
     // - another function call
     // - additional variables
