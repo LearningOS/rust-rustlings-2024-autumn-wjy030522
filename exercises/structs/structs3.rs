@@ -4,10 +4,10 @@
 // defined the Package struct and we want to test some logic attached to it.
 // Make the code compile and the tests pass!
 //
-// Execute `rustlings hint structs3` or use the `hint` watch subcommand for a
+// Execute `rustlings hint structs3` or use the `hint` watch subcommand for a3
 // hint.
 
-// I AM NOT DONE
+
 
 #[derive(Debug)]
 struct Package {
